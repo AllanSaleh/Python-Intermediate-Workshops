@@ -1,0 +1,6 @@
+I am writing too the txt file from Python!
+student1: Adam
+student2: Kyle
+student3: Victoria
+student4: Tony
+I am Allan the Instructor
